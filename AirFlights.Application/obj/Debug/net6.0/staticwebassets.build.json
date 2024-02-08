@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sAkMg6JIRZYh3e1LKPnsK2g3oQG2SbsSw2ViUGHpj+M=",
+  "Source": "AirFlights.Application",
+  "BasePath": "_content/AirFlights.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

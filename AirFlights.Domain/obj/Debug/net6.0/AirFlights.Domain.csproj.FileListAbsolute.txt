@@ -1,0 +1,12 @@
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\bin\Debug\net6.0\AirFlights.Domain.deps.json
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\bin\Debug\net6.0\AirFlights.Domain.dll
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\bin\Debug\net6.0\AirFlights.Domain.pdb
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\AirFlights.Domain.csproj.AssemblyReference.cache
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\AirFlights.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\AirFlights.Domain.AssemblyInfoInputs.cache
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\AirFlights.Domain.AssemblyInfo.cs
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\AirFlights.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\AirFlights.Domain.dll
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\refint\AirFlights.Domain.dll
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\AirFlights.Domain.pdb
+C:\Users\Андрей\RiderProjects\AirFlights\AirFlights.Domain\obj\Debug\net6.0\ref\AirFlights.Domain.dll
